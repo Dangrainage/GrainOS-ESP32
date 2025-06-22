@@ -34,7 +34,7 @@ For a most basic overview, you can always type `help` in the terminal, but not a
 
 `low` will set the specified pin to low - Usage input: `low <pinnumber>`
 
-`send` will send the specified message as UART on pin 1
+`send` will send the specified message as UART on pin 2
 
 # G-Script run command
 
